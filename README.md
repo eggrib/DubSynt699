@@ -1,5 +1,10 @@
 # DubSynt699
 
-Custom browser-based dub reggae synthesizer, bassline & groove generator.
+Browser-based dub synthesizer and groove tool inspired by classic Roots Radics dub production.
 
-- **Author:** [eggrib](https://699718.space/) · [@eggrib](https://t.me/eggrib)
+## Overview
+- Real-time synthesis, dub delay/echo feedback, and filter modulation in the browser
+- Focused on hands-on dub mixing, dubwise transitions, and rhythmic experimentation
+
+## Stack
+- **Platform:** Web (JavaScript / Web Audio)
